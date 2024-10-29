@@ -1,0 +1,4 @@
+Queria colocar um hover na imagem de perfil que nem os outros itens de navegação mas todas as minhas tentativas foram falhas;
+Queria colocar a logo da navbar como link mas não consegui alinhar da forma que queria
+Depois, com react, colocar uma animação pro mecanismo de busca, e um dropdown pro perfil
+Fazer o design responsivo
