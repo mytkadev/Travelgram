@@ -5,5 +5,7 @@
 /* Coloca a font-family no root */
 /* Ele colocou as fontes dentro do root, com as nomeações que a designer passou. alguns exemplos:
     --text-lg: bold 32px/125% var(--font-family)
-    documentação guia: https://developer.mozilla.org/en-US/docs/Web/CSS/font
-    */
+    documentação guia: https://developer.mozilla.org/en-US/docs/Web/CSS/font*/
+/* Ele fez um arquivo pra cada seção do site, como nav.css e importa no css*/
+/* span:nth-child(1) */
+/* Ele faz o uso de uma classe "container" que tem margens laterais de 32px. Ele aplica em todos os containers. */
