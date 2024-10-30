@@ -1,3 +1,9 @@
-// Não chamei esse estilo no código html. O professor o criou, mas eu não. Vou deixar anotado aqui o que, teoricamente, viria nesse documento como estilos globais. 
-// Aqui ele aplicou o margin: 0; padding: 0 e box-sizing: border-box
-// Colocar cores :root no global
+/* Não chamei esse estilo no código html. O professor o criou, mas eu não. Vou deixar anotado aqui o que, teoricamente, viria nesse documento como estilos globais.  */
+/*Aqui ele aplicou o margin: 0; padding: 0 e box-sizing: border-box */
+/* Coloca cores :root no global */
+/* Coloca a cor de fonte mais usada e a cor de fundo no body */
+/* Coloca a font-family no root */
+/* Ele colocou as fontes dentro do root, com as nomeações que a designer passou. alguns exemplos:
+    --text-lg: bold 32px/125% var(--font-family)
+    documentação guia: https://developer.mozilla.org/en-US/docs/Web/CSS/font
+    */
